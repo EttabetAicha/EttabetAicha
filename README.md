@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm ETTABET AICHA</h1>
 <h3 align="center">A passionate full stack developer from Morocco</h3>
 
-- 🔭 I’m currently working on **SocialMediaWebSite**
+- 🔭 I’m currently working on **Car Rental**
 
-- 🌱 I’m currently learning **C,vuejs,nodejs,engularjs**
+- 🌱 I’m currently learning **vuejs**
 
 - 📫 How to reach me **aicha70tabite@gmail.com**
 
