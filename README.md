@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ETTABET AICHA</h1>
 <h3 align="center">A passionate full stack developer from Morocco</h3>
 
-- 🔭 I’m currently working on **Car Rental**
+- 🔭 I’m currently working on **ERP**
 
 - 🌱 I’m currently learning **vuejs**
 
