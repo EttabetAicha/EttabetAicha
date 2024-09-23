@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ERP**
 
-- 🌱 I’m currently learning **vuejs**
+- 🌱 I’m currently learning **java**
 
 - 📫 How to reach me **aicha70tabite@gmail.com**
 
